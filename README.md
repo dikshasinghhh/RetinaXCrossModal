@@ -2,10 +2,10 @@
 ![dr-convnet-small](https://github.com/user-attachments/assets/489dea8a-6556-4e35-9c01-7eb8226e6bfd)
 
 # Abstract 
-Diabetic retinopathy (DR) is a diabetes-related eye disease that can lead to vision loss. Early detection is vital. This study compares Vision Transformers (ViT), ResNet, and MobileNet for DR classification using a balanced dataset combining APTOS-2019, Diabetic Retinopathy Preprocessed (256x256), and the Diabetic Retinopathy Arranged dataset—the latter used to train GANs for synthetic image generation. Results show ResNet achieving a validation F1-score of 0.7617, outperforming MobileNet’s 0.7186. This work highlights the strengths and trade-offs of each model, aiming to enhance automated DR screening and support early diagnosis.
+Diabetic retinopathy (DR) is a diabetes-related eye disease that can lead to vision loss. Early detection is vital. This study compares Vision Transformers (ViT), ResNet, and MobileNet for DR classification using a balanced dataset combining APTOS-2019, Diabetic Retinopathy Preprocessed (256x256), and the Diabetic Retinopathy Arranged dataset the latter used to train GANs for synthetic image generation. Results show ResNet achieving a validation F1-score of 0.7617, outperforming MobileNet’s 0.7186. This work highlights the strengths and trade-offs of each model, aiming to enhance automated DR screening and support early diagnosis.
 <br>
 
-# DATASET 
+# Dataset
 - https://www.kaggle.com/datasets/mariaherrerot/aptos2019<br>
 - https://www.kaggle.com/datasets/amanneo/diabetic-retinopathy-resized-arranged
 - https://www.kaggle.com/datasets/sachinkumar413/diabetic-retinopathy-dataset
