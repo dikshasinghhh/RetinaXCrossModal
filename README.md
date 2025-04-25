@@ -20,6 +20,16 @@ Diabetic retinopathy (DR) is a diabetes-related eye disease that can lead to vis
   <img src="https://github.com/user-attachments/assets/72399444-b9ae-46fe-915a-ae4b40e461d3" width="48%" />
 </p>
 
+### Performance Comparison of Tested Models on the Data
+
+|     MODEL     |   Loss (Train)   |   F1 Score (Train)   |   Loss (Validation)   |   F1 Score (Validation)   |
+|:-------------:|:----------------:|:---------------------:|:----------------------:|:--------------------------:|
+|     VIT       |     0.3016       |        0.9021         |        0.5401          |           0.8251           |
+|   RESNET      |     0.2948       |        0.7803         |        0.8758          |           0.7617           |
+|  MOBILENET    |     0.5122       |        0.6517         |        0.8758          |           0.7186           |
+
+
+
 
 
   
