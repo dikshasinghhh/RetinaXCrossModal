@@ -10,7 +10,7 @@ Diabetic retinopathy (DR) is a diabetes-related eye disease that can lead to vis
 - https://www.kaggle.com/datasets/amanneo/diabetic-retinopathy-resized-arranged
 - https://www.kaggle.com/datasets/sachinkumar413/diabetic-retinopathy-dataset
 
-# 📊 Methodology <br>
+# Methodology <br>
 - <B>Data Augmentation</B>: Applied random rotations, scaling, contrast shifts, and flips to improve model robustness.<br>
 - <B>Model Architectures</B>: Compared ViT, ResNet50, and MobileNetV2, all pre-trained on large image datasets.<br>
 - <B>Class Imbalance Handling</B>: Used class-balanced filtering and WeightedRandomSampler with computed class weights.
